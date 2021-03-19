@@ -1,3 +1,6 @@
+"""
+@author: Mohammad Jobayer Hossain
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 import cmath
